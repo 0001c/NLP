@@ -5,7 +5,9 @@
 ## 📚 课程来源
 
 - **课程链接**: [【2025版】动手学自然语言处理NLP系列！](https://www.bilibili.com/video/BV1KSh1zvEpY/?p=18&share_source=copy_web&vd_source=697642d055ec82d49734008a241110ad)
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115105157093535&bvid=BV1KSh1zvEpY&cid=31996707760&p=18" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<div style="margin: 10px 0;">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115105157093535&bvid=BV1KSh1zvEpY&cid=31996707760&p=18" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="480"></iframe>
+</div>
 - **章节**: 第三章 - 中文分词
 
 ## 📁 项目结构
